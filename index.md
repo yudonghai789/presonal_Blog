@@ -15,5 +15,7 @@ title: 余东海的 个人博客
 * [点击这里查看完整 Notebook 内容](./fft/FFT_Windowing_Blog.ipynb)
 * [在线交互预览 (nbviewer)](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/fft/FFT_Windowing_Blog.ipynb)
 
+* [在线交互预览 (nbviewer):ipynb](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/new.ipynb)
+
 ---
 © 2026 余东海 | 基于 GitHub Pages 构建
