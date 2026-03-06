@@ -17,5 +17,7 @@ title: 余东海的 个人博客
 
 * [在线交互预览 (nbviewer):ipynb](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/new.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789.github.io/presonal_Blog/new.ipynb)
+
 ---
 © 2026 余东海 | 基于 GitHub Pages 构建
