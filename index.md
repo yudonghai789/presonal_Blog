@@ -12,7 +12,7 @@ title: 余东海的 个人博客
 ### [2026-03-06] 傅里叶变换 (FFT) 与加窗实战
 这篇文章详细介绍了 FFT 的物理意义，并通过 Python 演示了加窗对 16-QAM 星座图的影响。
 
-* [点击这里查看完整 Notebook 内容](.fft/FFT_Windowing_Blog.ipynb)
+* [点击这里查看完整 Notebook 内容](./fft/FFT_Windowing_Blog.ipynb)
 * [在线交互预览 (nbviewer)](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/fft/FFT_Windowing_Blog.ipynb)
 
 ---
