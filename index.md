@@ -17,6 +17,15 @@ title: 余东海的 个人博客
 * [![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/傅里叶变换(fft)/傅里叶变换基础知识总结.ipynb)
 
 
+
+
+
+### [2026-03-06] NR 无线通信
+[![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/5G无线通信/ofdm_visualization.ipynb)
+
+
+
+
 ### [2026-03-06] 深度学习入门项目
 [![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/python学习\pytorch_mnist_blog.ipynb)
 
