@@ -34,7 +34,8 @@ title: 余东海的 个人博客
 
 
 ## 🚀 演示文稿
-* [在线交互预览 (nbviewer):ipynb](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/new.ipynb)
+* [在线交互预览 (nbviewer):ipynb](https://nbviewer.org/github/yudonghai789.github.io/presonal_Blog/new.ipynb)   
+
 [![Open In Colab:](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/main/new.ipynb)
 
 ---
