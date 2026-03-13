@@ -26,6 +26,17 @@ title: 余东海的 个人博客
 [![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/5G无线通信/图示ofdm.ipynb)
 
 
+### [2026-03-06] Serdes
+
+[![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/高速传输(serdes)/低通滤波器对方波的影响.ipynb)
+
+
+
+
+
+
+
+
 ### [2026-03-06] 深度学习入门项目
 [![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/python学习\pytorch_mnist_blog.ipynb)
 
