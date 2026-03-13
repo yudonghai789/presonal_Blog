@@ -28,7 +28,7 @@ title: 余东海的 个人博客
 
 ### [2026-03-06] Serdes
 
-[![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/高速传输(serdes)/低通滤波器对方波的影响.ipynb)
+[低通滤波器对方波的影响](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/高速传输(serdes)/低通滤波器对方波的影响.ipynb)
 
 
 
