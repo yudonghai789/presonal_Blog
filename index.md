@@ -26,7 +26,13 @@ title: 余东海的 个人博客
 [![Open In Colab 可运行python片段](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/5G无线通信/图示ofdm.ipynb)
 
 
-### [2026-03-06] Serdes
+### [2026-03-16] SERDES 系统详解（新增）
+
+完整演示 SERDES 系统的每一步操作过程：数据生成 → 串行化 → FFE 预加重 → 信道传输 → CTLE 均衡 → 采样判决 → 眼图分析
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/高速传输 (serdes)/serdes 系统详解.ipynb)
+
+### [2026-03-06] Serdes 基础
 
 [低通滤波器对方波的影响](https://colab.research.google.com/github/yudonghai789/presonal_Blog/blob/master/高速传输(serdes)/低通滤波器对方波的影响.ipynb)
 
